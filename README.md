@@ -16,8 +16,8 @@ Kaiserreich and Kaiserredux are separate projects. Their source code and assets 
 
 ## Development status
 
-- [ ] Verify source licenses and asset permissions
-- [ ] Inventory American content in Kaiserredux
+- [ ] Verify source licenses and asset permissions (no root LICENSE files found in either source repository; permission still unresolved)
+- [x] Create initial American-content inventory in `docs/AMERICAN_CONTENT_INVENTORY.md` (exhaustive dependency audit still in progress)
 - [ ] Map dependencies against Kaiserreich
 - [ ] Port and adapt content in tested batches
 - [ ] Validate localization, scripted references, and HOI4 loading
